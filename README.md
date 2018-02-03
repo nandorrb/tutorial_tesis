@@ -35,7 +35,7 @@
 ## Revision de la tesis
 1. Una vez impresos los 4 tomos de la tesis, solicitar una asignación de jurados de tesis (Presidente de jurado + Jurado especialista) los cuales junto al asesor seran el jurado de tesis.
 2. Llamar a los jurados, y preguntar disponibilidad, 
-3. dede ser posible entregar personalmente el tomo correspondiente.
+3. De ser posible entregar personalmente el tomo correspondiente.
 4. Preguntar disponibilidad para sustentación y seleccionar una fecha y hora.
 
 ## Sustentación
