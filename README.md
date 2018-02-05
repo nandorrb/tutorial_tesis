@@ -3,7 +3,7 @@
 ## Tramites Documentarios
 1. Tramitar el grado de bachiller en oficina central
 2. Ir a oficina de titulacion FIM, en el segundo piso del pabellon A1. Solicitar los documentos T1, T2, T3, T4. Y dejar tus datos, luego de esto se tiene el plazo de 2 años para terminar la tesis.
-3. Solicitar los datos de contacto de la secretaria, muy importante para saber si algun documento ha sido rechazado.
+3. Oicina de titulación: **(01)3826785**
 4. Especificar como asesor de tesis a Daniel Barrera.
 5. Dar seguimiento a los documentos.
 6. Completar la documentación que exija la señorita
@@ -12,6 +12,7 @@
 1. Formatos 1T , 2T , 3T , 4T , 6T
 2. El formato 6T se entrega por mesa de partes
 3. Además la SUNEDU tambien solicita constancia de primera matricula en ORCE(S/37.00), y copias fertificadas de bachiller y constancia de gresado
+4. Pago por concepto de titulación: S/1050.00
 
 ## El Asesor
 1. Solicitar un tema de tesis al Asesor, y ademas proponer otros temas propios. Los temas mas faciles estan relacionados a algoritmos de control avanzados aplicados a una planta de una industria en especial, dado que no requieren implementacion y suelen ser innovadores. Para el tema se puede buscar en paginas como **SciHub**.
